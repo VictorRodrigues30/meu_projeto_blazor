@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a0ok39PJlYo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Área de Trabalho\\Projetos\\Prof. Daniel\\Aula C#\\MeuProjeto\\MeuProjeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.11\\microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
